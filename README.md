@@ -1,12 +1,12 @@
 # Hello Barcode Xpress for Java
 
-A minimal [Barcode Xpress for Java](https://help.accusoft.com/BarcodeXpress/preview/BxJava/webframe.html#User%20Guide.html)
+A minimal [Barcode Xpress for Java](https://help.accusoft.com/BarcodeXpress/latest/BxJava/webframe.html#overview.html)
 application which detects barcodes on a given bitmap image.
 
 ## Requirements
 
 You need to have maven to build and run the sample.
-For the full list of requirements please refer to the [Barcode Xpress for Java help](https://help.accusoft.com/BarcodeXpress/preview/BxJava/webframe.html#System%20Requirements.html).
+For the full list of requirements please refer to the [Barcode Xpress for Java help](https://help.accusoft.com/BarcodeXpress/latest/BxJava/webframe.html#System%20Requirements.html).
 
 ## Repository
 
