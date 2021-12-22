@@ -11,7 +11,7 @@
     </organization>
     
     <properties>
-        <bx.jar.version>13.6</bx.jar.version>
+        <bx.jar.version>13.7</bx.jar.version>
         <bx.repository.url>https://mvn.accusoft.com</bx.repository.url>
     </properties>
     
